@@ -2,7 +2,8 @@
 
 echo "Adding repos to '~/flat-remix'..."
 
-mkdir ~/flat-remix && cd ~/flat-remix
+mkdir ~/flat-remix
+cd ~/flat-remix
 
 git clone https://github.com/daniruiz/flat-remix.git
 git clone https://github.com/daniruiz/flat-remix-gnome.git
